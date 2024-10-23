@@ -1,0 +1,1 @@
+document.getElementById("output").innerHTML="Turn ON or OFF";
